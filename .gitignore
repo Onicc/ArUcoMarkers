@@ -1,10 +1,17 @@
 # VSCode
 .vscode/*
 
-# video
+# Video
 *.mp4
 *.avi
 *.MOV
+
+# Doc
+*.xlsx
+*.vsdx
+
+# Mac
+*.DS_Store
 
 # Prerequisites
 *.d
