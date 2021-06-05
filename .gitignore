@@ -1,3 +1,11 @@
+# VSCode
+.vscode/*
+
+# video
+*.mp4
+*.avi
+*.MOV
+
 # Prerequisites
 *.d
 
